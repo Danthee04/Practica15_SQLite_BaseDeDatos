@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica15_SQLite_BaseDeDatos</string>
+    <string name="txt_codigo">Codigo del Producto.</string>
+    <string name="txt_descripcion">Descripción del Producto.</string>
+    <string name="txt_precio">Precio del Producto.</string>
+    <string name="BotonRegistrar">REGISTRAR PRODUCTO</string>
+    <string name="BotonBuscar">BUSCAR PRODUCTO</string>
+    <string name="BotonModificar">MODIFICAR PRODUCTO</string>
+    <string name="BotonEliminar">ELIMINAR PRODUCTO</string>
+</resources>
